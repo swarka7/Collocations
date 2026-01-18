@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+*.gz
+.idea/
+.vscode/
+*.iml
+
+# local run artifacts
+he-top100.txt
+he-counters.txt
+counts-sample.txt
+join2-sample.txt
+counters.txt
